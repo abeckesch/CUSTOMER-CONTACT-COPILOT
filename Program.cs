@@ -5,7 +5,7 @@ using AgenticCustomerContactCopilot.Services;
 using AgenticCustomerContactCopilot.Orchestrator;
 
 // ============================================================================
-// INTERACTIVE DEMO MODE - EnergyCo Agentic Customer Contact Copilot
+// INTERACTIVE DEMO MODE - EnergyCo Customer Contact Copilot
 // ============================================================================
 
 // --- Configuration & Initialization ---

@@ -1,4 +1,4 @@
-# Agentic Customer Contact Copilot
+# Customer Contact Copilot
 
 > **AI-powered email processing system for automated customer service**  
 > Built with C#, .NET 8, and Semantic Kernel

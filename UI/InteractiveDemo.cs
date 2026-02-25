@@ -72,7 +72,7 @@ public class InteractiveDemo
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine("╔══════════════════════════════════════════════════════════════╗");
-        Console.WriteLine("║     EnergyCo Agentic Customer Contact Copilot              ║");
+        Console.WriteLine("║     EnergyCo Customer Contact Copilot                      ║");
         Console.WriteLine("║     Interactive Demo Mode                                    ║");
         Console.WriteLine("╚══════════════════════════════════════════════════════════════╝");
         Console.ResetColor();
