@@ -4,12 +4,12 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using AgenticCustomerContactCopilot.Models;
-using AgenticCustomerContactCopilot.Orchestrator;
-using AgenticCustomerContactCopilot.Services;
-using AgenticCustomerContactCopilot.Utils;
+using CustomerContactCopilot.Models;
+using CustomerContactCopilot.Orchestrator;
+using CustomerContactCopilot.Services;
+using CustomerContactCopilot.Utils;
 
-namespace AgenticCustomerContactCopilot.UI;
+namespace CustomerContactCopilot.UI;
 
 public class InteractiveDemo
 {

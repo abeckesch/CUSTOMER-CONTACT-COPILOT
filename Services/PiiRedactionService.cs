@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace AgenticCustomerContactCopilot.Services;
+namespace CustomerContactCopilot.Services;
 
 /// <summary>
 /// Service for detecting and redacting Personally Identifiable Information (PII)

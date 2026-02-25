@@ -1,8 +1,8 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using AgenticCustomerContactCopilot.Models;
+using CustomerContactCopilot.Models;
 
-namespace AgenticCustomerContactCopilot.Services;
+namespace CustomerContactCopilot.Services;
 
 /// <summary>
 /// Service for managing customer data and authentication.

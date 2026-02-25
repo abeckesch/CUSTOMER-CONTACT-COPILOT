@@ -1,4 +1,4 @@
-namespace AgenticCustomerContactCopilot.Models;
+namespace CustomerContactCopilot.Models;
 
 /// <summary>
 /// Represents an incoming customer email to be processed.

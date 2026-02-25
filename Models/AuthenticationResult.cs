@@ -1,4 +1,4 @@
-namespace AgenticCustomerContactCopilot.Models;
+namespace CustomerContactCopilot.Models;
 
 /// <summary>
 /// Result of an authentication attempt.

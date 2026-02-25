@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace AgenticCustomerContactCopilot.Utils;
+namespace CustomerContactCopilot.Utils;
 
 public static class ConsoleHelpers
 {

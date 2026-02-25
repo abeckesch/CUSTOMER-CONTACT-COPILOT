@@ -1,7 +1,7 @@
-using AgenticCustomerContactCopilot.Models;
-using AgenticCustomerContactCopilot.Agents;
+using CustomerContactCopilot.Models;
+using CustomerContactCopilot.Agents;
 
-namespace AgenticCustomerContactCopilot.Services;
+namespace CustomerContactCopilot.Services;
 
 /// <summary>
 /// Aggregates results from multiple agents and presents a unified output.

@@ -1,12 +1,12 @@
 using System;
 using Microsoft.SemanticKernel;
-using AgenticCustomerContactCopilot.Models;
-using AgenticCustomerContactCopilot.Services;
-using AgenticCustomerContactCopilot.Agents;
+using CustomerContactCopilot.Models;
+using CustomerContactCopilot.Services;
+using CustomerContactCopilot.Agents;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace AgenticCustomerContactCopilot.Orchestrator;
+namespace CustomerContactCopilot.Orchestrator;
 
 /// <summary>
 /// Main orchestrator for processing customer emails using Semantic Kernel.

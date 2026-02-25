@@ -1,4 +1,4 @@
-namespace AgenticCustomerContactCopilot.Models;
+namespace CustomerContactCopilot.Models;
 
 /// <summary>
 /// Represents the current state of email processing workflow.

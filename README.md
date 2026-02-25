@@ -101,7 +101,7 @@ The system handles common energy provider customer requests:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd AgenticCustomerContactCopilot
+cd CustomerContactCopilot
 
 # Restore dependencies
 dotnet restore
@@ -160,7 +160,7 @@ The application starts in **Interactive Demo Mode** with a menu:
 ## 📁 Project Structure
 
 ```
-AgenticCustomerContactCopilot/
+CustomerContactCopilot/
 ├── Agents/
 │   └── ProductInfoAgent.cs          # Non-auth product inquiries
 ├── Data/

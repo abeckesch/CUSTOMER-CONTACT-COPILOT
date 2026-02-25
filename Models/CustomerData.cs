@@ -1,4 +1,4 @@
-namespace AgenticCustomerContactCopilot.Models;
+namespace CustomerContactCopilot.Models;
 
 /// <summary>
 /// Represents customer data used for authentication and account lookup.

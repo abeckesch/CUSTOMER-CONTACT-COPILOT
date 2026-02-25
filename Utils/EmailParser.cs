@@ -1,8 +1,8 @@
 using System;
 using System.IO;
-using AgenticCustomerContactCopilot.Models;
+using CustomerContactCopilot.Models;
 
-namespace AgenticCustomerContactCopilot.Utils;
+namespace CustomerContactCopilot.Utils;
 
 public static class EmailParser
 {

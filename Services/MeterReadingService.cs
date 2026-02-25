@@ -1,6 +1,6 @@
-using AgenticCustomerContactCopilot.Models;
+using CustomerContactCopilot.Models;
 
-namespace AgenticCustomerContactCopilot.Services;
+namespace CustomerContactCopilot.Services;
 
 /// <summary>
 /// Service for validating meter readings and checking plausibility.

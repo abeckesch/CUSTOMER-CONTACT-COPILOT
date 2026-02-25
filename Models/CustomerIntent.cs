@@ -1,4 +1,4 @@
-namespace AgenticCustomerContactCopilot.Models;
+namespace CustomerContactCopilot.Models;
 
 /// <summary>
 /// Represents the detected intent of a customer email.

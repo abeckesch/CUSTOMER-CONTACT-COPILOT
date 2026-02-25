@@ -1,8 +1,8 @@
 using Microsoft.SemanticKernel;
 using Microsoft.Extensions.Configuration;
-using AgenticCustomerContactCopilot.Models;
-using AgenticCustomerContactCopilot.Services;
-using AgenticCustomerContactCopilot.Orchestrator;
+using CustomerContactCopilot.Models;
+using CustomerContactCopilot.Services;
+using CustomerContactCopilot.Orchestrator;
 
 // ============================================================================
 // INTERACTIVE DEMO MODE - EnergyCo Customer Contact Copilot
@@ -22,8 +22,8 @@ var openAiApiKey = configuration["OpenAI:ApiKey"]
 
 if (string.IsNullOrWhiteSpace(openAiApiKey))
 {
-    AgenticCustomerContactCopilot.Utils.ConsoleHelpers.WriteColor("❌ ERROR: OpenAI API Key not found!", ConsoleColor.Red);
-    AgenticCustomerContactCopilot.Utils.ConsoleHelpers.WriteColor("   Set via: dotnet user-secrets set \"OpenAI:ApiKey\" \"sk-...\"", ConsoleColor.Yellow);
+    CustomerContactCopilot.Utils.ConsoleHelpers.WriteColor("❌ ERROR: OpenAI API Key not found!", ConsoleColor.Red);
+    CustomerContactCopilot.Utils.ConsoleHelpers.WriteColor("   Set via: dotnet user-secrets set \"OpenAI:ApiKey\" \"sk-...\"", ConsoleColor.Yellow);
     return;
 }
 
@@ -44,5 +44,5 @@ if (!Directory.Exists(testEmailsPath))
     testEmailsPath = Path.Combine(AppContext.BaseDirectory, "TestEmails");
 }
 
-var demo = new AgenticCustomerContactCopilot.UI.InteractiveDemo(orchestrator, sessionManager, modelId);
+var demo = new CustomerContactCopilot.UI.InteractiveDemo(orchestrator, sessionManager, modelId);
 await demo.StartAsync();

@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace AgenticCustomerContactCopilot.Services;
+namespace CustomerContactCopilot.Services;
 
 /// <summary>
 /// Logging service for observability and tracing agent decision-making.

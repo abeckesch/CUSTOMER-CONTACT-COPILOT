@@ -1,7 +1,7 @@
 using System.Text.Json;
-using AgenticCustomerContactCopilot.Models;
+using CustomerContactCopilot.Models;
 
-namespace AgenticCustomerContactCopilot.Services;
+namespace CustomerContactCopilot.Services;
 
 /// <summary>
 /// Manages persistent conversation sessions across multiple email interactions.

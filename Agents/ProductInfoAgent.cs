@@ -1,7 +1,7 @@
 using Microsoft.SemanticKernel;
-using AgenticCustomerContactCopilot.Models;
+using CustomerContactCopilot.Models;
 
-namespace AgenticCustomerContactCopilot.Agents;
+namespace CustomerContactCopilot.Agents;
 
 /// <summary>
 /// Specialized agent for answering questions about EnergyCo's product offerings,
