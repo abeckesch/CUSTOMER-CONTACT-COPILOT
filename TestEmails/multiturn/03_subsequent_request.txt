@@ -1,0 +1,13 @@
+From: new.customer@example.com
+To: service@energyco.com
+Subject: Meter Reading After Move
+Date: 14.01.2026 14:00
+
+Hello,
+
+here is my current meter reading after the move:
+
+Meter Reading: 43200 kWh
+
+Thank you!
+Julia

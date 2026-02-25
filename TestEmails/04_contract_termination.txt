@@ -1,0 +1,21 @@
+From: anna.mueller@example.com
+To: service@energyco.com
+Subject: Termination of my Electricity Contract
+Date: 14.01.2026 09:00
+
+Dear Sir or Madam,
+
+I hereby terminate my electricity contract at the earliest possible date.
+
+My contract details:
+Contract number: LB-2022-12345
+Name: Anna Müller
+Date of birth: 08.07.1990
+Address: Kirchweg 7, 80331 Munich
+
+Reason for termination: Moving abroad
+
+Please confirm the termination date in writing.
+
+Best regards,
+Anna Müller

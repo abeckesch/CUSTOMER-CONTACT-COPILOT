@@ -1,0 +1,13 @@
+From: new.customer@example.com
+To: service@energyco.com
+Subject: Re: Move - Address Change
+Date: 14.01.2026 10:30
+
+Sorry, here is my information:
+
+Contract Number: LB-2024-78432
+Name: Julia Meyer
+Birthday: 15.03.1985
+
+Best regards,
+Julia Meyer

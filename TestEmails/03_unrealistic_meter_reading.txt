@@ -1,0 +1,22 @@
+From: thomas.schmidt@example.com
+To: service@energyco.com
+Subject: Meter Reading Correction
+Date: 14.01.2026 16:45
+
+Dear EnergyCo Team,
+
+I would like to correct my meter reading. I unfortunately made a typo in my last report.
+
+My identification data:
+Contract number: LB-2023-45678
+Name: Thomas Schmidt
+Date of birth: 22.11.1978
+Address: Hauptstraße 15, 20095 Hamburg
+
+Corrected meter reading: 99999999 kWh
+
+This seems very high to me, but that's what the meter shows.
+Perhaps the meter is defective?
+
+Best regards,
+Thomas Schmidt

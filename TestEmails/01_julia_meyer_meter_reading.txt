@@ -1,0 +1,20 @@
+From: julia.meyer@example.com
+To: service@energyco.com
+Subject: Meter Reading Report for January 2026
+Date: 14.01.2026 10:30
+
+Dear Sir or Madam,
+
+I would like to submit my current meter reading.
+
+My contract number: LB-2024-78432
+My name: Julia Meyer
+Date of birth: 15.03.1985
+
+Current meter reading: 45678 kWh
+Reading date: 14.01.2026
+
+Best regards,
+Julia Meyer
+Musterstraße 42
+10115 Berlin

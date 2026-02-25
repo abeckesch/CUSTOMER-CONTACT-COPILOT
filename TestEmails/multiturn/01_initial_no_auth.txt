@@ -1,0 +1,16 @@
+From: new.customer@example.com
+To: service@energyco.com
+Subject: Move - Address Change
+Date: 14.01.2026 09:00
+
+Hello,
+
+I recently moved and would like to update my address.
+
+My new address:
+Parkstraße 55
+60311 Frankfurt am Main
+
+Please update my data.
+
+Thank you
